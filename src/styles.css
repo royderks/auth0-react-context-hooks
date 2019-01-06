@@ -1,0 +1,15 @@
+.app {
+  font-family: sans-serif;
+}
+
+.group {
+  margin: 2em 0;
+}
+
+label {
+  display: block;
+}
+
+input[type="text"] {
+  display: block;
+}
